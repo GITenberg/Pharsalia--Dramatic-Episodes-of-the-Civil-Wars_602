@@ -1,0 +1,28 @@
+_repo: Pharsalia--Dramatic-Episodes-of-the-Civil-Wars_602
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lucan
+    alias: Lucanus, Marcus Annaeus
+    birthdate: 39
+    deathdate: 65
+    gutenberg_agent_id: '316'
+    url: http://www.gutenberg.org/2009/agents/316
+    wikipedia: http://en.wikipedia.org/wiki/Marcus_Annaeus_Lucanus
+description: Bellum Civile
+gutenberg_issued: '1996-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '602'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pharsalus, Battle of, Farsala, Greece, 48 B.C. -- Poetry'
+- !lcc 'PA'
+- !lcsh 'Epic poetry, Latin -- Translations into English'
+- !lcsh 'Rome -- History -- Civil War, 49-45 B.C. -- Poetry'
+- GITenberg
+title: Pharsalia; Dramatic Episodes of the Civil Wars
+url: http://www.gutenberg.org/ebooks/602
